@@ -1,0 +1,9 @@
+flask
+flask-cors
+firebase-admin
+opencv-python
+dlib
+mediapipe
+numpy
+gunicorn
+facenet-pytorch
